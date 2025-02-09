@@ -48,7 +48,7 @@
     <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
   </article>
   {% endfor %}
-  <div class="article-author-top">
+  <div class="article-author-top">home
     {% include author-bio.html %}1
   </div>
 </div><!-- /#index -->
