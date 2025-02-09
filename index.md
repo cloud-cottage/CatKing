@@ -16,8 +16,9 @@ While you're here - care to check out something I wrote?
 - 跟单投资，遇到所谓“贵人”推荐？
 - 从事搬砖、套利操作？
 - 线上开会不使用谷歌或腾讯会议，而是要求你下载某个陌生APP？
+
 保持警惕，避免陷入风险！
-<br/>
+
 ---
 ---
 ### What I am doing
@@ -25,19 +26,29 @@ While you're here - care to check out something I wrote?
 ##### BIBI
 Build BSC Meme BIBI
 CA:
-##### Project2
+##### CapyMax
 
 ---
 ---
 ### Tools & Links
 ---
 ##### 最高返佣链接
-- 🔸币安最高返佣链接：[https://accounts.binance.com/register?ref=ID421J3O](https://accounts.binance.com/register?ref=ID421J3O)
-- OKX返佣 [https://www.cnouyi.ninja/join/62326427](https://www.cnouyi.ninja/join/62326427)
-- Bitget最高返佣6000u：[https://share.bitget.com/u/8B78KZPB](https://share.bitget.com/u/8B78KZPB)
-###### APP下载地址
-- 🎈币安APK安装包（安卓）：[https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000162.apk](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000162.apk)
 
+|  Exchange / 交易APP | Discount | Link |
+| ------ | ------ | ------ |
+| 币安 | 最高返佣链接 ｜ [https://accounts.binance.com/register?ref=ID421J3O] |
+| OKX | 最高返佣 ｜ [https://www.cnouyi.ninja/join/62326427] |
+| Bitget | 最高返佣6000u ｜ [https://share.bitget.com/u/8B78KZPB] |
+
+##### 小白必读
+- 合约初解[https://www.zhihu.com/question/371733315/answer/3408514050]
+- 币圈常见名词解释[https://www.zhihu.com/question/647298501/answer/3430657158]
+
+##### 其它资料
+DeepSeek闲鱼收费资料 DeepSeek资料合集： 
+链接：https://pan.quark.cn/s/6afa160a76e6
+
+### Music
 ---
 ---
 ##### 我的推特置顶
