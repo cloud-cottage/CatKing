@@ -35,18 +35,17 @@ CA:
 ##### 最高返佣链接
 
 |  Exchange / 交易APP | Discount | Link |
-| ------ | ------ | ------ |
-| 币安 | 最高返佣链接 ｜ [https://accounts.binance.com/register?ref=ID421J3O] |
-| OKX | 最高返佣 ｜ [https://www.cnouyi.ninja/join/62326427] |
-| Bitget | 最高返佣6000u ｜ [https://share.bitget.com/u/8B78KZPB] |
+| :---:        |    :----:   |          ---: |
+| 币安 | 最高返佣链接 ｜ <https://accounts.binance.com/register?ref=ID421J3O> |
+| OKX | 最高返佣 ｜ <https://www.cnouyi.ninja/join/62326427> |
+| Bitget | 最高返佣6000u ｜ <https://share.bitget.com/u/8B78KZPB> |
 
 ##### 小白必读
-- 合约初解[https://www.zhihu.com/question/371733315/answer/3408514050]
-- 币圈常见名词解释[https://www.zhihu.com/question/647298501/answer/3430657158]
+- 《合约初解》<https://www.zhihu.com/question/371733315/answer/3408514050>
+- 《币圈常见名词解释》<https://www.zhihu.com/question/647298501/answer/3430657158>
 
 ##### 其它资料
-DeepSeek闲鱼收费资料 DeepSeek资料合集： 
-链接：https://pan.quark.cn/s/6afa160a76e6
+《DeepSeek闲鱼收费资料 DeepSeek资料合集》<https://pan.quark.cn/s/6afa160a76e6>
 
 ### Music
 ---
