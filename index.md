@@ -15,13 +15,18 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## CatKing & My Friends!
+<p>{{ site.owner.bio }}</p>
 
+- [Youtube频道](https://www.youtube.com/@0xCatKing)
 - [我的Telegram](https://t.me/xCatking)
 - [Telegram群组](https://t.me/+CW5932C9G4UwZmJl)
-- [Youtube频道](https://www.youtube.com/@0xCatKing)
+{% if site.owner.twitter %}
 - <i class="icon-twitter"></i> [Twitter 我的推特](https://twitter.com/{{ site.owner.twitter }})
-
-<p>{{ site.owner.bio }}</p>
+{% endif %}
+{% if site.owner.email %}
+- <i class="icon-mail"></i> [Email 我的邮箱](mailto:{{ site.owner.email }})
+{% endif %}
+<br>
 
 {% if site.owner.email %}
 <style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email 我的邮箱</a></p>
