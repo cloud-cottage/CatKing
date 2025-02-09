@@ -3,18 +3,17 @@ audio,canvas,video{display:inline-block;}
 audio:not([controls]){display:none;height:0;}
 [hidden]{display:none;}
 html{font-family:Noto Sans,LXGW WenKai,PingFang SC,-apple-system,BlinkMacSystemFont,Hiragino Sans GB,Microsoft YaHei,Segoe UI Emoji,Segoe UI Symbol,Segoe UI,Noto Sans SC,HarmonyOS_Regular,Helvetica Neue,Helvetica,Source Han Sans SC,Arial,sans-serif,Apple Color Emoji;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
-body{margin:0;
-  @keyframes gradientAnimation {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-   
-  .animated-gradient {
-    background: linear-gradient(-45deg, #a75fff, #fe7bb6, #9bf2ff, #d45fff);
-    background-size: 400% 400%;
-    animation: gradientAnimation 15s ease infinite;
-  }
+body{margin:0;}
+@keyframes gradientAnimation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+ 
+.animated-gradient {
+  background: linear-gradient(-45deg, #a75fff, #fe7bb6, #9bf2ff, #d45fff);
+  background-size: 400% 400%;
+  animation: gradientAnimation 15s ease infinite;
 }
 a:focus{outline:thin dotted;}
 a:active,a:hover{outline:0;}
