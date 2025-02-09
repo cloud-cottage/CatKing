@@ -5,16 +5,17 @@ layout: page
 <img src="images/cover_flag.png" class="">
 
 You can call me **Kevin** or **CatKing**.  
-哥们你来啦？我在Web3里人称“猫王”
+哥们里边请！我在Web3里人称“猫王”。
 
 While you're here - care to check out something I wrote?  
-既然来了，不妨仔细看看我写的三段话：
+来都来了，不妨仔细看看我写的这段话：
+
 ---
 ##### Princple No.1!
-以下情形中的任何一种，都是高风险信号！冷静思考自己是否符合以下情况：
+以下情形中的任何一种，都是高风险信号！冷静思考你现在是否符合：
 - 社区成员联系你，要求买U卖U？
 - 跟单投资，遇到所谓“贵人”推荐？
-- 从事搬砖、套利操作？
+- 朋友带着你从事套利操作？
 - 线上开会不使用谷歌或腾讯会议，而是要求你下载某个陌生APP？
 
 保持警惕，避免掉入陷阱！！！
