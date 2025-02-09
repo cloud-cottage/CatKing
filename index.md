@@ -5,7 +5,7 @@ layout: page
 <img src="images/cover_flag.png" class="">
 
 You can call me **Kevin** or **CatKing**.  
-哥们里边请！我在Web3里人称“猫王”。
+兄弟里边请！我在Web3里人称“猫王”。
 
 While you're here - care to check out something I wrote?  
 来都来了，不妨仔细看看我写的这段话：
