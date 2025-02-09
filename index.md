@@ -12,9 +12,15 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**
 
----
-
+## Princple No.1 安全第一！！！
+以下情形中的任何一种，都是高风险状态！！！冷静思考自己是否符合！！！
+- 社区成员联系你买u卖u？
+- 跟单，遇到贵人？
+- 搬砖、套利？
+- 线上会议不使用Google Meet或腾讯会议，而是要求你下载某个APP？
+- 
 ## CatKing & My Friends!
+---
 <p>{{ site.owner.bio }}</p>
 
 - [Youtube频道](https://www.youtube.com/@0xCatKing)
@@ -27,16 +33,6 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - <i class="icon-mail"></i> [Email 我的邮箱](mailto:{{ site.owner.email }})
 {% endif %}
 <br>
-
-{% if site.owner.email %}
-<style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email 我的邮箱</a></p>
-{% endif %}
-
-{% if site.owner.twitter %}<p style="text-indent:0;"><a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i>[Twitter 我的推特](https://twitter.com/{{ site.owner.twitter }})</a></p>{% endif %}
-
-{% if site.owner.zhihu %}<p style="text-indent:0;"><a href="{{ site.owner.zhihu }}"><img src="https://caihanlin.com/images/logo/icons8-zhihu-96.png" width="15.8" height="15.8"> Zhihu 我的知乎</a></p>{% endif %}
-
-{% if site.owner.bilibili %}<p style="text-indent:0;"><a href="https://space.bilibili.com/{{ site.owner.bilibili }}"><img src="https://caihanlin.com/images/logo/icons8-retro-tv-100.png" width="15" height="15">Bilibili </a></p>{% endif %}
 
 
 ---
@@ -61,5 +57,4 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zh" dir="ltr">哥哥姐姐们，这次有字幕了。<br> <a href="https://twitter.com/BIBI_Foundation?ref_src=twsrc%5Etfw">@BIBI_Foundation</a> <a href="https://twitter.com/bibisister0508?ref_src=twsrc%5Etfw">@bibisister0508</a> <a href="https://t.co/K5ZCri5dhd">pic.twitter.com/K5ZCri5dhd</a></p>&mdash; 猫王 (@0xCatKing) <a href="https://twitter.com/0xCatKing/status/1875928560726381027?ref_src=twsrc%5Etfw">January 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
