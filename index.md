@@ -36,9 +36,9 @@ CA:
 
 |  Exchange / 交易APP | Discount | Link |
 | :---:        |    :----:   |          ---: |
-| 币安 | 最高返佣链接 ｜ <https://accounts.binance.com/register?ref=ID421J3O> |
-| OKX | 最高返佣 ｜ <https://www.cnouyi.ninja/join/62326427> |
-| Bitget | 最高返佣6000u ｜ <https://share.bitget.com/u/8B78KZPB> |
+| 币安 | 最高返佣链接 |  <https://accounts.binance.com/register?ref=ID421J3O> |
+| OKX | 最高返佣 | <https://www.cnouyi.ninja/join/62326427> |
+| Bitget | 最高返佣6000u | <https://share.bitget.com/u/8B78KZPB> |
 
 ##### 小白必读
 - 《合约初解》<https://www.zhihu.com/question/371733315/answer/3408514050>
