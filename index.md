@@ -31,13 +31,10 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 🈲**不要相信任何私聊你买币的人，那些都是诈骗！**📢**只能买，不能卖！**
 
-🔸**币安最高返佣链接**：https://www.binance.com/join?ref=
-
-**Bitget最高[返佣6000](https://share.bitget.com/u/8B78KZPB)u** - https://share.bitget.com/u/8B78KZPB
-
-🎈币安**APK安装包（安卓）：**https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000162.apk
-
-**Bitget[返佣](https://share.bitget.com/u/8B78KZPB)** - https://share.bitget.com/u/8B78KZPB && OKX返佣 - https://www.cnouyi.ninja/join/62326427 && 币安🔸返佣 **-** https://accounts.binance.com/register?ref=ID421J3O
+- 🔸币安最高返佣链接：[https://accounts.binance.com/register?ref=ID421J3O](https://accounts.binance.com/register?ref=ID421J3O)
+- Bitget最高返佣6000u：[https://share.bitget.com/u/8B78KZPB](https://share.bitget.com/u/8B78KZPB)
+- 🎈币安APK安装包（安卓）：[https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000162.apk](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000162.apk)
+- OKX返佣 [https://www.cnouyi.ninja/join/62326427](https://www.cnouyi.ninja/join/62326427)
 
 <br>
 
