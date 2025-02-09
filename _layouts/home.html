@@ -38,10 +38,6 @@
   <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image">
 </div><!-- /.image-wrap -->
 
-<div class="article-author-top">
-  {% include author-bio.html %}
-</div>
-
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
   <a href="{{ site.url}}/articles" class="btn btn-small pull-right">View all articles</a>
   <h3>Latest Articles</h3>
@@ -52,6 +48,9 @@
     <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
   </article>
   {% endfor %}
+  <div class="article-author-top">
+    {% include author-bio.html %}
+  </div>
 </div><!-- /#index -->
 
 <div class="footer-wrap">
