@@ -15,24 +15,29 @@ While you're here - care to check out something I wrote?
 - 社区成员联系你，要求买U卖U？
 - 跟单投资，遇到所谓“贵人”推荐？
 - 从事搬砖、套利操作？
-- 线上开会不使用谷歌或腾讯会议，而是要求你下载某个陌生APP？  
+- 线上开会不使用谷歌或腾讯会议，而是要求你下载某个陌生APP？
+
 保持警惕，避免掉入陷阱！！！
+
 ---
 ### What I am doing
 ###### BIBI
-Build BSC Meme BIBI
-CA:
+Builder: BSC Meme BIBI(CA)
 ###### CapyMax
-###### 
+Marketing:
+###### CEX
+Marketing:
 
 ---
 ### Tools & Links
 ##### 最高返佣链接
+
 |  Exchange / 交易APP | Discount | Link |
 | :---:        |    :----:   |          ---: |
 | 币安 | 最高返佣链接 |  <https://accounts.binance.com/register?ref=ID421J3O> |
 | OKX | 最高返佣 | <https://www.cnouyi.ninja/join/62326427> |
 | Bitget | 最高返佣6000u | <https://share.bitget.com/u/8B78KZPB> |
+
 ---
 ##### 小白必读
 - 《合约初解》<https://www.zhihu.com/question/371733315/answer/3408514050>
