@@ -19,36 +19,19 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - [我的Telegram](https://t.me/xCatking)
 - [Telegram群组](https://t.me/+CW5932C9G4UwZmJl)
 - [Youtube频道](https://www.youtube.com/@0xCatKing)
+- <i class="icon-twitter"></i> [Twitter 我的推特](https://twitter.com/{{ site.owner.twitter }})
 
 <p>{{ site.owner.bio }}</p>
 
-{% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>{% endif %}
+{% if site.owner.email %}
+<style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email 我的邮箱</a></p>
+{% endif %}
 
-{% if site.owner.cv %}<p style="text-indent:0;"><a href="{{ site.owner.cv }}"><img src="https://caihanlin.com/images/logo/icons8-cv-100.png" width="16.5" height="16.5"></i> My CV</a></p>{% endif %}
+{% if site.owner.twitter %}<p style="text-indent:0;"><a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i>[Twitter 我的推特](https://twitter.com/{{ site.owner.twitter }})</a></p>{% endif %}
 
-{% if site.owner.twitter %}<p style="text-indent:0;"><a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i> Twitter</a></p>{% endif %}
+{% if site.owner.zhihu %}<p style="text-indent:0;"><a href="{{ site.owner.zhihu }}"><img src="https://caihanlin.com/images/logo/icons8-zhihu-96.png" width="15.8" height="15.8"> Zhihu 我的知乎</a></p>{% endif %}
 
-{% if site.owner.facebook %}<p style="text-indent:0;"><a href="https://facebook.com/{{ site.owner.facebook }}"><i class="icon-facebook"></i> Facebook</a></p>{% endif %}
-
-{% if site.owner.google_plus %}<p style="text-indent:0;"><a href="{{ site.owner.google_plus }}"><i class="icon-google-plus"></i> Google+</a></p>{% endif %}
-
-{% if site.owner.linkedin %}<p style="text-indent:0;"><a href="https://linkedin.com/in/{{ site.owner.linkedin }}"><i class="icon-linkedin"></i> LinkedIn</a></p>{% endif %}
-
-{% if site.owner.instagram %}<p style="text-indent:0;"><a href="https://instagram.com/{{ site.owner.instagram }}"><i class="icon-instagram"></i> Instagram</a></p>{% endif %}
-
-{% if site.owner.github %}<p style="text-indent:0;"><a href="https://github.com/{{ site.owner.github }}"><i class="icon-github"></i> Github</a></p>{% endif %}
-
-{% if site.owner.lastfm %}<p style="text-indent:0;"><a href="https://lastfm.com/{{ site.owner.lastfm }}"><i class="icon-lastfm"></i> Last.fm</a></p>{% endif %}
-
-{% if site.owner.tumblr %}<p style="text-indent:0;"><a href="https://{{ site.owner.tumblr }}.tumblr.com"><i class="icon-tumblr"></i> Tumblr</a></p>{% endif %}
-
-{% if site.owner.scholar%}<p style="text-indent:0;"><a href="{{ site.owner.scholar}}"><i class="ai ai-google-scholar-square"></i> Google Scholar</a></p>{% endif %}
-
-{% if site.owner.researchgate %}<p style="text-indent:0;"><a href="{{ site.owner.researchgate}}"><img src="https://caihanlin.com/images/logo/icons8-rg.png" width="14" height="14"></i> ResearchGate</a></p>{% endif %}
-
-{% if site.owner.zhihu %}<p style="text-indent:0;"><a href="{{ site.owner.zhihu }}"><img src="https://caihanlin.com/images/logo/icons8-zhihu-96.png" width="15.8" height="15.8"></i> Zhihu</a></p>{% endif %}
-
-{% if site.owner.bilibili %}<p style="text-indent:0;"><a href="https://space.bilibili.com/{{ site.owner.bilibili }}"><img src="https://caihanlin.com/images/logo/icons8-retro-tv-100.png" width="15" height="15"></i> Bilibili</a></p>{% endif %}
+{% if site.owner.bilibili %}<p style="text-indent:0;"><a href="https://space.bilibili.com/{{ site.owner.bilibili }}"><img src="https://caihanlin.com/images/logo/icons8-retro-tv-100.png" width="15" height="15">Bilibili </a></p>{% endif %}
 
 
 ---
