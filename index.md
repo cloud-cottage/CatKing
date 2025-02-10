@@ -22,18 +22,12 @@ While you're here - check out something I wrote?
 保持警惕，避免掉入陷阱！！！
 
 ##### What I am doing
-###### BIBI
-Builder: Meme BIBI
+All in Web3 是我的信条，自从接触币圈我参与了多个项目。BIBI是我非常认可的模因币社区，去年底我为社区创作了一首歌，附在页面下方，敬请欣赏↓。
 
-这是我最早接触的模因币社区，2024年年末我为社区创作了一首歌，附在页面下方敬请欣赏↓
-###### CapyMax
-Marketing:
-我负责这个项目的市场和商务事宜，CapyMax很有前景，欢迎大家参与建设！目前的计划是大约2025年3月前上线。
-###### A CEX
-Marketing:
-为某交易所做市场方面工作。
+此外我目前在 CapyMax 负责市场和商务事宜，这是一个超级有潜力的DeFi项目，目前还是早期，计划2025年3月前上线，欢迎大家参与建设！
+最后就是我也在为某交易所做市场方面工作。
 
-*访问<https://catking.vip/startups/>查看更多。*
+*更多信息请访问<https://catking.vip/startups/>。*
 
 
 
