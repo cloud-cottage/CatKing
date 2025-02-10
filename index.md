@@ -4,11 +4,11 @@ layout: page
 
 <img src="images/cover_flag.png" class="">
 
-You can call me **Kevin** or just **CatKing**.  
-兄弟里边请！我在Web3里人称“猫王”。
+> You can call me _Kevin_ or just **_CatKing_**.  
+兄弟里边请！我在Web3里人称 **“猫王”**。
 
-While you're here - care to check out something I wrote?  
-来都来了，不妨仔细看看我写的这段话：
+> While you're here - care to check out something I wrote?  
+**来都来了**，不妨仔细看看我写的这段话：
 
 
 ##### Princple No.1!
@@ -21,7 +21,7 @@ While you're here - care to check out something I wrote?
 保持警惕，避免掉入陷阱！！！
 
 
-### What I am doing
+##### What I am doing
 ###### BIBI
 Builder: BSC Meme BIBI(CA)
 ###### CapyMax
@@ -30,8 +30,7 @@ Marketing:
 Marketing:
 
 
-### Tools & Links
-##### 最高返佣链接
+##### Tools & Links
 
 |  Exchange / 交易APP | Discount | Link |
 | :---:        |    :----:   |          ---: |
@@ -40,7 +39,7 @@ Marketing:
 | Bitget | 最高返佣6000u | <https://share.bitget.com/u/8B78KZPB> |
 
 
-##### 小白必读
+##### Ready to Crypto?
 - 《合约初解》<https://www.zhihu.com/question/371733315/answer/3408514050>
 - 《币圈常见名词解释》<https://www.zhihu.com/question/647298501/answer/3430657158>
 - 《加密货币市场2024年发展回顾与2025年趋势预测》<https://www.zhihu.com/question/551208199/answer/93699003130>
@@ -48,10 +47,7 @@ Marketing:
 
 一切文件都要防范，一切链接都要慎点，所以我提供的都是知乎回答的地址。
 
-##### 其它资料
-- 《DeepSeek闲鱼收费资料 DeepSeek资料合集》<https://pan.quark.cn/s/6afa160a76e6>
 
+## Music
 
-### Music
-##### 我的推特置顶
 <blockquote class="twitter-tweet"><p lang="zh" dir="ltr">哥哥姐姐们，这次有字幕了。<br> <a href="https://twitter.com/BIBI_Foundation?ref_src=twsrc%5Etfw">@BIBI_Foundation</a> <a href="https://twitter.com/bibisister0508?ref_src=twsrc%5Etfw">@bibisister0508</a> <a href="https://t.co/K5ZCri5dhd">pic.twitter.com/K5ZCri5dhd</a></p>&mdash; 猫王 (@0xCatKing) <a href="https://twitter.com/0xCatKing/status/1875928560726381027?ref_src=twsrc%5Etfw">January 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
