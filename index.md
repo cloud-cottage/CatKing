@@ -34,12 +34,9 @@ Marketing:
 
 ##### Tools & Links
 
-|  Exchange / 交易APP | Discount | Link |
-| :---:        |    :----:   |          ---: |
-| 币安 | 最高返佣链接 |  <https://accounts.binance.com/register?ref=ID421J3O> |
-| OKX | 最高返佣 | <https://www.cnouyi.ninja/join/62326427> |
-| Bitget | 最高返佣6000u | <https://share.bitget.com/u/8B78KZPB> |
-
+- 币安 最高返佣链接  <https://accounts.binance.com/register?ref=ID421J3O>
+- OKX  最高返佣  <https://www.cnouyi.ninja/join/62326427> |
+- Bitget  最高返佣6000u  <https://share.bitget.com/u/8B78KZPB>
 
 ##### Ready to Crypto?
 - 《合约初解》<https://www.zhihu.com/question/371733315/answer/3408514050>
@@ -47,8 +44,7 @@ Marketing:
 - 《加密货币市场2024年发展回顾与2025年趋势预测》<https://www.zhihu.com/question/551208199/answer/93699003130>
 - 《从零开始 小白加密货币入门工具和指南》<https://zhuanlan.zhihu.com/p/636263872>
 
-一切文件都要防范，一切链接都要慎点，所以我提供的都是知乎回答的地址。
-
+一切文件都要防范，一切链接都要慎点，所以我提供的都是知乎的地址。（内容自辨）
 
 ## Music
 

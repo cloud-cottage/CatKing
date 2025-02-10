@@ -493,3 +493,7 @@ screen and (max-height:300px){
   width:85%;
   margin: 0 auto;
 }
+#sociallinks li{
+  list-style-type: none;
+  display: inline;
+}
