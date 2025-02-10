@@ -445,6 +445,14 @@ screen and (max-height:300px){
 #friendlinks {
   border-radius: 10%;
 }
+#sociallinks {
+  margin: 0 auto;
+  width: 85%;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
 .scroll-container {
   width: 85%;
   overflow: hidden;
