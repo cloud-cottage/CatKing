@@ -431,6 +431,7 @@ screen and (max-height:300px){
   .article-wrap {margin: 0 auto;}
   #index{display:inline;float:left;width:50%;margin-left:0%;margin-right:0%;} 
   .footer-wrap footer{
+    font-size: smaller;
     display:inline;
     float:left;
     width:100%;
