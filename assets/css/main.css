@@ -442,17 +442,7 @@ screen and (max-height:300px){
 @media only screen and (min-width:86.375em){.site-name{display:inline;float:left;width:12.5%;margin-left:16.666666666666668%;} .top-navigation{display:inline;float:left;width:66.66666666666667%;} .image-wrap:after{left:33.333333333%;} .image-wrap .headline-wrap{margin-left:8.333333333333334%;} #main article{display:inline;float:left;width:37.5%;} #index{display:inline;float:left;width:37.5%;} .related-articles{display:inline;float:left;width:37.5%;margin-left:33.333333333333336%;margin-right:29.166666666666668%;} .footer-wrap footer{display:inline;float:left;width:37.5%;margin-left:33.333333333333336%;margin-right:29.166666666666668%;} .article-author-top{display:inline;float:left;width:12.5%;margin-left:16.666666666666668%;}}
 @media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){}
 /*友情链接的走马灯*/
-#friendlinks {
-  border-radius: 20%;
-}
-#sociallinks {
-  margin: 0 auto;
-  width: 85%;
-  padding: 20px 0;
-  display: flex;
-  justify-content: space-between;
-  list-style: none;
-}
+
 .scroll-container {
   width: 85%;
   overflow: hidden;
@@ -497,6 +487,15 @@ screen and (max-height:300px){
 .twitter-tweet {
   margin: 0 auto;
 }
+
+#sociallinks {
+  margin: 0 auto;
+  width: 85%;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
 #sociallinks h1,h2,h3,h4,h5,h6,ul{
   clear: both;
 }
@@ -515,7 +514,14 @@ screen and (max-height:300px){
 #sociallinks li:hover{
   background-color: aqua;
   color: darkgreen;
-  box-shadow: 0 2px 4px #0f0;
+  box-shadow: 0 2px 4px aqua;
+}
+
+#friendlinks {
+  border-radius: 20%;
+}
+#friendlinks li{
+  list-style-type: none;
 }
 #footer-core{
   width:85%;
