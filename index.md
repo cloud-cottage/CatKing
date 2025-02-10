@@ -5,14 +5,14 @@ layout: page
 <img src="images/cover_flag.png" class="">
 
 > You can call me _Kevin_ or just **_CatKing_**.  
-兄弟里边请！我在Web3里人称 **“猫王”**。
+欢迎大哥！江湖人称 **“猫王”**的就是弟弟我。
 
 > While you're here - care to check out something I wrote?  
 **来都来了**，不妨仔细看看我写的这段话：
 
 
 ##### Princple No.1!
-以下情形中的任何一种，都是高风险信号！冷静思考你现在是否符合：
+玩币的第一条是不要“被玩”，以下的情形，任何一条都说明你被做局了！高风险！冷静思考思考你现在是否符合：
 - 社区成员联系你，要求买U卖U？
 - 跟单投资，遇到所谓“贵人”推荐？
 - 朋友带着你从事套利操作？
@@ -20,15 +20,16 @@ layout: page
 
 保持警惕，避免掉入陷阱！！！
 
-
 ##### What I am doing
 ###### BIBI
 Builder: BSC Meme BIBI(CA)
+这是我最早接触的模因币社区，2024年年末我为社区创作了一首歌，附在页面下方敬请欣赏。
 ###### CapyMax
 Marketing:
-###### CEX
+我负责这个项目的市场和商务事宜，CapyMax很有前景，欢迎大家参与建设。
+###### Some CEX
 Marketing:
-
+为某交易所做市场方面工作。
 
 ##### Tools & Links
 
