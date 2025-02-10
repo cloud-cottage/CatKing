@@ -23,7 +23,8 @@ While you're here - check out something I wrote?
 
 ##### What I am doing
 ###### BIBI
-Builder: BSC Meme BIBI(CA)
+Builder: Meme BIBI
+
 这是我最早接触的模因币社区，2024年年末我为社区创作了一首歌，附在页面下方敬请欣赏↓
 ###### CapyMax
 Marketing:
