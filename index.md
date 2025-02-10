@@ -43,6 +43,10 @@ Marketing:
 ##### 小白必读
 - 《合约初解》<https://www.zhihu.com/question/371733315/answer/3408514050>
 - 《币圈常见名词解释》<https://www.zhihu.com/question/647298501/answer/3430657158>
+- 《加密货币市场2024年发展回顾与2025年趋势预测》<https://www.zhihu.com/question/551208199/answer/93699003130>
+- 《从零开始 小白加密货币入门工具和指南》<https://zhuanlan.zhihu.com/p/636263872>
+
+一切文件都要防范，一切链接都要慎点，所以我提供的都是知乎回答的地址。
 
 ##### 其它资料
 - 《DeepSeek闲鱼收费资料 DeepSeek资料合集》<https://pan.quark.cn/s/6afa160a76e6>
