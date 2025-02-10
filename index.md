@@ -4,15 +4,15 @@ layout: page
 
 <img src="images/cover_flag.png" class="">
 
-> You can call me _Kevin_ or just **_CatKing_**.  
+You can call me _Kevin_ or just **_CatKing_**.  
 欢迎大哥！江湖人称 **“猫王”**的就是弟弟我。
 
-> While you're here - check out something I wrote?  
+While you're here - check out something I wrote?  
 **来都来了**，不妨仔细看看我写的这段话：
 
 
 ##### Princple No.1!
-玩币的第一条是不要“被玩”，以下的情形，任何一条都说明你被做局了！  
+> 玩币的第一条是不要“被玩”，以下的情形，任何一条都说明你被做局了！  
 高风险！冷静思考思考你现在是否符合：
 - 社区成员联系你，要求买U卖U？
 - 跟单投资，遇到所谓“贵人”推荐？
