@@ -35,7 +35,7 @@ Marketing:
 ##### Tools & Links
 
 - 币安 最高返佣链接  <https://accounts.binance.com/register?ref=ID421J3O>
-- OKX  最高返佣  <https://www.cnouyi.ninja/join/62326427> |
+- OKX  最高返佣  <https://www.cnouyi.ninja/join/62326427>
 - Bitget  最高返佣6000u  <https://share.bitget.com/u/8B78KZPB>
 
 ##### Ready to Crypto?
