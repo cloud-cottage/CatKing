@@ -443,7 +443,7 @@ screen and (max-height:300px){
 @media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){}
 /*友情链接的走马灯*/
 #friendlinks {
-  border-radius: 10%;
+  border-radius: 20%;
 }
 #sociallinks {
   margin: 0 auto;
