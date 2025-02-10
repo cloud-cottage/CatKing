@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: home
 ---
 
 <img src="images/cover_flag.png" class="">
 
 You can call me _Kevin_ or just **_CatKing_**.  
-欢迎大哥！江湖人称 **“猫王”**的就是弟弟我。
+欢迎大哥！江湖人称 **“猫王”**的就是兄弟我。
 
 While you're here - check out something I wrote?  
 **来都来了**，不妨仔细看看我写的这段话：
@@ -32,6 +32,10 @@ Marketing:
 Marketing:
 为某交易所做市场方面工作。
 
+*访问<https://catking.vip/startups/>查看更多。*
+
+
+
 ##### Tools & Links
 
 - 币安 最高返佣链接  <https://accounts.binance.com/register?ref=ID421J3O>
@@ -45,6 +49,11 @@ Marketing:
 - 《从零开始 小白加密货币入门工具和指南》<https://zhuanlan.zhihu.com/p/636263872>
 
 一切文件都要防范，一切链接都要慎点，所以我提供的都是知乎的地址。（内容自辨）
+
+##### What I love
+我是音乐人 / 铲屎官，猫狗问题随时回答。
+
+*访问<https://catking.vip/hobbies/>查看更多。*
 
 ## Music
 
