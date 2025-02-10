@@ -507,9 +507,14 @@ screen and (max-height:300px){
   flex-shrink: 0;
   padding: 10px 20px;
   margin: 0 10px;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px #f00;
+  border-radius: 20px;
+  box-shadow: 0 2px 4px #ccc;
   /* 确保每个项目宽度一致 */
   width: 200px;
   text-align: center;
+}
+#sociallinks li:hover{
+  background-color: aqua;
+  color: darkgreen;
+  box-shadow: 0 2px 4px #0f0;
 }
