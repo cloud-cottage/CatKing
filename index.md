@@ -5,7 +5,7 @@ layout: home
 <img src="images/cover_flag.png" class="">
 
 You can call me _Kevin_ or just **_CatKing_**.  
-欢迎大哥！江湖人称 **“猫王”**的就是兄弟我。
+兄弟我就是 **“猫王”**，向您敬礼！
 
 While you're here - check out something I wrote?  
 **来都来了**，不妨仔细看看我写的这段话：
