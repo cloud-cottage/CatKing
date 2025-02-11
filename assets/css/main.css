@@ -581,6 +581,9 @@ screen and (max-height:300px){
   clear: both;
   display: block;
 }
+#sociallinks ul{
+  padding:0;
+}
 #sociallinks li{
   list-style-type: none;
   display: block;
