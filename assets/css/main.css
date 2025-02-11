@@ -515,7 +515,7 @@ screen and (max-height:300px){
   margin: 0 auto;
   width: 85%;
   padding: 20px 0;
-  display: flex;
+  display: block;
   justify-content: space-between;
   list-style: none;
 }
@@ -525,14 +525,12 @@ screen and (max-height:300px){
 }
 #sociallinks li{
   list-style-type: none;
-  display: inline;
+  display: block;
   flex-shrink: 0;
   padding: 10px 20px;
   margin: 0 10px;
   border-radius: 20px;
   box-shadow: 0 2px 4px #ccc;
-  /* 确保每个项目宽度一致 */
-  width: 200px;
   text-align: center;
 }
 #sociallinks li:hover{
