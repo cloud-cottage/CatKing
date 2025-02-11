@@ -5,7 +5,9 @@ audio:not([controls]){display:none;height:0;}
 html{
   font-family:Noto Sans,LXGW WenKai,PingFang SC,-apple-system,BlinkMacSystemFont,Hiragino Sans GB,Microsoft YaHei,Segoe UI Emoji,Segoe UI Symbol,Segoe UI,Noto Sans SC,HarmonyOS_Regular,Helvetica Neue,Helvetica,Source Han Sans SC,Arial,sans-serif,Apple Color Emoji;
   -webkit-text-size-adjust:100%;
-  -ms-text-size-adjust:100%;}
+  -ms-text-size-adjust:100%;
+  color:black;
+}
 body{margin:0;}
 @keyframes gradientAnimation {
   0% { background-position: 0% 50%; }
@@ -202,7 +204,8 @@ svg:not(:root){overflow:hidden;}
 .third img{display:inline;float:left;width:33.333333333333336%;}
 .third figcaption{display:inline;float:left;width:100%;}
 img.floatpic{float:right; margin-left:1em; width:33%;}
-.btn{display:inline-block;*display:inline;*zoom:1;padding:12px 24px;margin-bottom:2em;line-height:1;text-align:center;text-transform:uppercase;vertical-align:middle;border:4px double #333332;-webkit-border-radius:50px;-moz-border-radius:50px;border-radius:50px;cursor:pointer;*margin-left:.3em;-webkit-transition:0.4s linear;-moz-transition:0.4s linear;-ms-transition:0.4s linear;-o-transition:0.4s linear;transition:0.4s linear;}.btn:visited{border:4px double #4e4e4e;}
+.btn{display:inline-block;*display:inline;
+  *zoom:1;padding:12px 24px;margin-bottom:2em;line-height:1;text-align:center;text-transform:uppercase;vertical-align:middle;border:4px double #333332;-webkit-border-radius:50px;-moz-border-radius:50px;border-radius:50px;cursor:pointer;*margin-left:.3em;-webkit-transition:0.4s linear;-moz-transition:0.4s linear;-ms-transition:0.4s linear;-o-transition:0.4s linear;transition:0.4s linear;}.btn:visited{border:4px double #4e4e4e;}
 .btn:hover{border:4px double #1a1a1a;}
 .btn:first-child{*margin-left:0;}
 .btn-inverse{border:4px double #ffffff;color:#ffffff;background-color:#000000;}.btn-inverse:visited{color:#ffffff;border-color:#ffffff;}
@@ -262,7 +265,6 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .form-search label{display:inline-block;}
 .form-search .radio,.form-search .checkbox,.form-inline .radio{padding-left:0;margin-bottom:0;vertical-align:middle;}
 .form-search .radio input[type="radio"],.form-search .checkbox input[type="checkbox"]{float:left;margin-left:0;margin-right:3px;}
-html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;font-size:90%;}
 .navigation-wrapper{margin:0 auto;width:100%;padding:2em 0 3em;font-family:'PT Sans Narrow',sans-serif;font-weight:700;text-transform:uppercase;}
 .site-name{margin:0 auto;width:100%;display:inline;float:left;width:83.33333333333334%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:1em;}
 .top-navigation{margin:0 auto;width:100%;display:inline;float:left;width:83.33333333333334%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:1em;}
