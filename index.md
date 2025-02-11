@@ -32,9 +32,9 @@ All in Web3 是我的信条，自从接触币圈我参与了多个项目。***BI
 
 #### Tools & Links
 
-- <span class="icon-binance"></span> 币安 最高返佣链接  <https://accounts.binance.com/register?ref=ID421J3O>
-- OKX  最高返佣  <https://www.cnouyi.ninja/join/62326427>
-- Bitget  最高返佣6000u  <https://share.bitget.com/u/8B78KZPB>
+- <span class="icon-binance"></span> 币安最高返佣链接  <https://accounts.binance.com/register?ref=ID421J3O>
+- <span class="icon-OKX_logo"></span> 欧易最高返佣  <https://www.cnouyi.ninja/join/62326427>
+- <span class="icon-baseasset_img_media-kit_logo-green-v3"></span> BG最高返佣6000u  <https://share.bitget.com/u/8B78KZPB>
 
 #### Ready to Crypto?
 - 《合约初解》<https://www.zhihu.com/question/371733315/answer/3408514050>
