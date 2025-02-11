@@ -245,7 +245,19 @@ svg-broader{
   -ms-transform:translate(0,0);
   transform:translate(0,0);
 }
-
+.icon-sociallinks {
+  display:inline-block;vertical-align:middle;
+  fill:currentColor;
+  width:1em;height:1em;
+  font-size:1em;
+  overflow:hidden;
+  color:currentColor;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  -webkit-transform:translate(0,0);
+  -ms-transform:translate(0,0);
+  transform:translate(0,0);
+}
 #icon-youtube:before {
   content: "\e903";
 }
