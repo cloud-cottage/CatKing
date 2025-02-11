@@ -254,6 +254,10 @@ svg-broader{
   -ms-transform:translate(0,0);
   transform:translate(0,0);
 }
+.icon-binance:before {
+  content: "\e900";
+  color: #f3ba2f;
+}
 .icon-sociallinks {
   display:inline-block;vertical-align:middle;
   fill:currentColor;

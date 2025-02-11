@@ -32,7 +32,7 @@ All in Web3 是我的信条，自从接触币圈我参与了多个项目。***BI
 
 #### Tools & Links
 
-- 币安 最高返佣链接  <https://accounts.binance.com/register?ref=ID421J3O>
+- <span class="icon-binance"></span> 币安 最高返佣链接  <https://accounts.binance.com/register?ref=ID421J3O>
 - OKX  最高返佣  <https://www.cnouyi.ninja/join/62326427>
 - Bitget  最高返佣6000u  <https://share.bitget.com/u/8B78KZPB>
 
