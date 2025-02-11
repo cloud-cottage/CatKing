@@ -267,13 +267,13 @@ svg-broader{
   -ms-transform:translate(0,0);
   transform:translate(0,0);
 }
-#icon-youtube:before {
+#icon-s-youtube:before {
   content: "\e903";
 }
-#icon-telegram:before {
+#icon-s-telegram:before {
   content: "\ea95";
 }
-#icon-x:before {
+#icon-s-twitter:before {
   content: "\e902";
 }
 
