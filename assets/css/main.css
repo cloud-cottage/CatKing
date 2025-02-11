@@ -245,6 +245,17 @@ svg-broader{
   -ms-transform:translate(0,0);
   transform:translate(0,0);
 }
+
+#icon-youtube:before {
+  content: "\e903";
+}
+#icon-telegram:before {
+  content: "\ea95";
+}
+#icon-x:before {
+  content: "\e902";
+}
+
 @font-face{
   font-family:'icomoon';
   src:url('../fonts/icomoon.eot');
