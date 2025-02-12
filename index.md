@@ -26,26 +26,26 @@ All in Web3 是我的信条，自从接触币圈我参与了多个项目。***BI
 
 此外我目前在 ***CapyMax*** 负责市场和商务事宜，这是一个超级有潜力的DeFi项目，目前还是早期，计划2025年3月前上线，欢迎大家参与建设！
 
-最后就是我也在为某交易所做市场方面工作。*更多信息请看<https://catking.vip/startups/>。*
+最后就是我也在为某交易所做市场方面工作。*更多信息请看<https://catking.vip/startups/>{:target="_blank"}。*
 
 
 
 #### Tools & Links
 
-- <span class="icon-binance"></span> 币安最高返佣链接  <https://accounts.binance.com/register?ref=ID421J3O>
-- <span class="icon-OKX_logo"></span> 欧易最高返佣  <https://www.cnouyi.ninja/join/62326427>
-- <span class="icon-baseasset_img_media-kit_logo-green-v3"></span> BG最高返佣6000u  <https://share.bitget.com/u/8B78KZPB>
+- <span class="icon-binance"></span> 币安最高返佣链接  <https://accounts.binance.com/register?ref=ID421J3O>{:target="_blank"}
+- <span class="icon-OKX_logo"></span> 欧易最高返佣  <https://www.cnouyi.ninja/join/62326427>{:target="_blank"}
+- <span class="icon-baseasset_img_media-kit_logo-green-v3"></span> BG最高返佣6000u  <https://share.bitget.com/u/8B78KZPB>{:target="_blank"}
 
 #### Ready to Crypto?
-- 《合约初解》<https://www.zhihu.com/question/371733315/answer/3408514050>
-- 《币圈常见名词解释》<https://www.zhihu.com/question/647298501/answer/3430657158>
-- 《加密货币市场2024年发展回顾与2025年趋势预测》<https://www.zhihu.com/question/551208199/answer/93699003130>
-- 《从零开始 小白加密货币入门工具和指南》<https://zhuanlan.zhihu.com/p/636263872>
+- 《合约初解》<https://www.zhihu.com/question/371733315/answer/3408514050>{:target="_blank"}
+- 《币圈常见名词解释》<https://www.zhihu.com/question/647298501/answer/3430657158>{:target="_blank"}
+- 《加密货币市场2024年发展回顾与2025年趋势预测》<https://www.zhihu.com/question/551208199/answer/93699003130>{:target="_blank"}
+- 《从零开始 小白加密货币入门工具和指南》<https://zhuanlan.zhihu.com/p/636263872>{:target="_blank"}
 
 一切文件都要防范，一切链接都要慎点，所以我提供的都是知乎的地址。（内容自辨）
 
 #### What I love
-我是音乐人 / 铲屎官，猫狗问题随时回答。 了解我的更多生活日常爱好，您请看<https://catking.vip/hobbies/>。*
+我是音乐人 / 铲屎官，猫狗问题随时回答。 了解我的更多生活日常爱好，您请看<https://catking.vip/hobbies/>{:target="_blank"}。*
 
 #### Music
 
