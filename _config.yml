@@ -29,7 +29,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+google_verify: ""
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -37,18 +37,10 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
-    url: /
   - title: Startups
     url: /startups/
   - title: Hobbies
     url: /hobbies/
-  - title: My Twitter
-    url: https://x.com/0xCatking
-  - title: Telegram Channel
-    url: https://t.me/+CW5932C9G4UwZmJl
-  - title: Youtube Channel
-    url: https://youtube.me/xCatKing
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
