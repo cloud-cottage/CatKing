@@ -3,7 +3,7 @@ layout: home
 title: CatKing - Your Web3 Friend
 ---
 
-<img src="images/cover_flag.png" class="cover_flag">
+
 
 You can call me _Kevin_ or just **_CatKing_**.  
 兄弟我就是 **“猫王”**，向您敬礼！
