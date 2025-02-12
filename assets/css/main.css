@@ -508,6 +508,7 @@ screen and (max-height:300px){
 @media only screen and (min-width:37.5em){
   html{font-size:95%;} 
   .site-name{display:inline;float:left;width:16.666666666666668%;margin-left:4.166666666666667%;margin-right:4.166666666666667%;} .top-navigation{display:inline;float:left;width:75%;margin-left:0%;margin-right:0%;} .image-wrap .headline-wrap,.image-wrap:after{left:25%;} .image-wrap .headline-wrap{margin-left:0;} 
+  #main .cover_flag{width:85%;clear:both;display: block;margin:0 auto;}
   #main article{display:inline;float:left;width:85%;}
   .article-wrap {margin: 0 auto;}
   #index{display:inline;float:left;width:50%;margin-left:0%;margin-right:0%;} 
