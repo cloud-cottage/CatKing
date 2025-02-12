@@ -1,5 +1,6 @@
 ---
 layout: home
+title: CatKing - Your Web3 Friend
 ---
 
 <img src="images/cover_flag.png" class="cover_flag">
@@ -22,7 +23,7 @@ While you're here - check out something I wrote?
 保持警惕，避免掉入陷阱！！！
 
 #### What I am doing
-All in Web3 是我的信条，自从接触币圈我参与了多个项目。***BIBI*** 是我非常认可的模因币社区，去年底我为社区创作了一首歌，附在页面下方，敬请欣赏↓。
+押注区块链是我的行动信条，自从接触币圈我参与了多个项目。***BIBI*** 是我非常认可的模因币社区，去年底我为社区创作了一首歌，附在页面下方，敬请欣赏↓。
 
 此外我目前在 ***CapyMax*** 负责市场和商务事宜，这是一个超级有潜力的DeFi项目，目前还是早期，计划2025年3月前上线，欢迎大家参与建设！
 
@@ -45,7 +46,7 @@ All in Web3 是我的信条，自从接触币圈我参与了多个项目。***BI
 一切文件都要防范，一切链接都要慎点，所以我提供的都是知乎的地址。（内容自辨）
 
 #### What I love
-我是音乐人 / 铲屎官，猫狗问题随时回答。 了解我的更多生活日常爱好，您请看<https://catking.vip/hobbies/>{:target="_blank"}。*
+我是音乐人 / 铲屎官，猫狗问题随时回答。 了解我的更多生活日常爱好，您请看<https://catking.vip/hobbies/>{:target="_blank"}。
 
 #### Music
 
