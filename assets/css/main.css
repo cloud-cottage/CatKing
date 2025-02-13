@@ -201,11 +201,6 @@ article img{
   height:auto;border-width:0;vertical-align:middle;
   -ms-interpolation-mode:bicubic;
 }
-article img .halfsize{
-  max-width:42%;
-  height:auto;border-width:0;vertical-align:middle;
-  -ms-interpolation-mode:bicubic;
-}
 svg:not(:root){overflow:hidden;}
 .half{margin:0 auto;width:100%;*zoom:1;}.half:before,.half:after{display:table;content:"";}
 .half:after{clear:both;}
