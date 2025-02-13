@@ -44,7 +44,7 @@ I have a natural love for cats and dogs. I have participated in rescuing stray c
 同时养过5猫1狗，任何护理问题欢迎问我。
 
 <div>
-<img src="/images/Cream202406.jpg">
+<img src="/images/Cream202406.jpg" class="halfsize">
 </div>
 
 My cat, her name is ***Cream***. I used to take her to Starbucks to pass the time.
