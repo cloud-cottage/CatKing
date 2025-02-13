@@ -22,9 +22,9 @@ Music is my biggest hobby, I like retro American music, especially from the 1960
 Another favorite of mine, and these pictures are my practice works.  
 不可一日不习字：
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/prelection1.JPG" class="quartersize">
+<img src="/images/speech1.JPG" class="quartersize">
+<img src="/images/speech3.JPG" class="quartersize">
 </div>
 I have only studied calligraphy for a short period of time, but it has helped me cultivate many highly skilled and renowned artists. My wish is to invest a lot of time in practicing calligraphy every day, but the reality is that there is not enough time. I hope I can achieve it in the future!
 <br/>
@@ -44,7 +44,7 @@ I have a natural love for cats and dogs. I have participated in rescuing stray c
 同时养过5猫1狗，任何护理问题欢迎问我。
 
 <div>
-<img src="/images/Cream202406.jpg" class="half">
+<img src="/images/Cream202406.jpg" class="halfsize">
 </div>
 
 My cat, her name is ***Cream***. I used to take her to Starbucks to pass the time.

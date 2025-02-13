@@ -202,11 +202,14 @@ article img{
   -ms-interpolation-mode:bicubic;
 }
 svg:not(:root){overflow:hidden;}
-.half{margin:0 auto;width:100%;*zoom:1;}.half:before,.half:after{display:table;content:"";}
+.half{margin:0 auto;width:100%;*zoom:1;}
+.half:before,
+.half:after{display:table;content:"";}
 .half:after{clear:both;}
 .half:before,.half:after{content:"";display:table;}
 .half:after{clear:both;}
-.half img{display:inline;float:left;width:50%;}
+.halfsize img{display:inline;float:left;width:50%;}
+.quartersize img{display:inline;float:left;width:25%;}
 .half figcaption{display:inline;float:left;width:100%;}
 .third{margin:0 auto;width:100%;*zoom:1;}.third:before,.third:after{display:table;content:"";}
 .third:after{clear:both;}
