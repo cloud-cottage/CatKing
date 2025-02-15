@@ -27,15 +27,8 @@ While you're here - check out something I wrote?
 
 此外我目前在 ***CapyMax*** 负责市场和商务事宜，这是一个超级有潜力的DeFi项目，目前还是早期，计划2025年3月前上线，欢迎大家参与建设！
 
-最后就是我也在为某交易所做市场方面工作。*更多信息请看<https://catking.vip/startups/>{:target="_blank"}。*
+最后就是我也在为某交易所做市场方面工作。*更多信息请看<https://catking.vip/startups/>{:target="_blank"}*
 
-
-
-#### Tools & Links
-
-- <span class="icon-binance"></span> 币安最高返佣链接  <https://accounts.binance.com/register?ref=ID421J3O>{:target="_blank"}
-- <span class="icon-OKX_logo"></span> 欧易最高返佣  <https://www.cnouyi.ninja/join/62326427>{:target="_blank"}
-- <span class="icon-baseasset_img_media-kit_logo-green-v3"></span> BG最高返佣6000u  <https://share.bitget.com/u/8B78KZPB>{:target="_blank"}
 
 #### Ready to Crypto?
 - 《合约初解》<https://www.zhihu.com/question/371733315/answer/3408514050>{:target="_blank"}
@@ -44,16 +37,25 @@ While you're here - check out something I wrote?
 - 《从零开始 小白加密货币入门工具和指南》<https://zhuanlan.zhihu.com/p/636263872>{:target="_blank"}
 - 《小白如何在币圈撸空投（一）所有工具准备》<https://zhuanlan.zhihu.com/p/651410307>{:target="_blank"}
 
-一切文件都要防范，一切链接都要慎点，所以我从知乎上筛选了几个图文教程给大家，属于入门级。
+以上的知乎地址是图文教程，视频教程在下方：
 
-- 《北京大学肖臻老师《区块链技术与应用》公开课》<https://www.bilibili.com/video/BV1Vt411X7JF>{:target="_blank"}
+- 《北京大学肖臻老师“区块链技术与应用”公开课》<https://www.bilibili.com/video/BV1Vt411X7JF>{:target="_blank"}
 - 《适合币圈撸毛小白的0基础超级入门教程》<https://www.bilibili.com/video/BV1Lh1XYaEie>{:target="_blank"}
 
-哔哩哔哩的视频教程可以说很详尽，但是内容中有部分过时的内容，例如很多UP主推荐ADS指纹浏览器，而ADS本月爆漏洞了，所以不要完全依照视频，一切以猫王及猫王社区的信息为准。
-我只筛选视频作为教程的整体质量，视频内容中的具体项目请自行判断。
+以上的教程，我是根据视频的整体质量而推荐，针对其中的具体项目内容请自行判断。
+
+B站的教程内容很详尽，但大多数不具备时效性。例如有UP主推荐ADS指纹浏览器，但ADS本月爆漏洞了。
+
+所以不要完全依照视频，一切以猫王及猫王社区的信息为准。
+
+
+#### Tools & Links
+- <span class="icon-binance"></span> 币安最高返佣链接  <https://accounts.binance.com/register?ref=ID421J3O>{:target="_blank"}
+- <span class="icon-OKX_logo"></span> 欧易最高返佣  <https://www.cnouyi.ninja/join/62326427>{:target="_blank"}
+- <span class="icon-baseasset_img_media-kit_logo-green-v3"></span> BG最高返佣6000u  <https://share.bitget.com/u/8B78KZPB>{:target="_blank"}
 
 #### What I love
-我是音乐人 / 铲屎官，猫狗问题随时回答。 了解我的更多生活日常爱好，您请看<https://catking.vip/hobbies/>{:target="_blank"}。
+我是音乐人 / 铲屎官，猫狗问题随时回答。 *我更多的生活爱好，请看这里<https://catking.vip/hobbies/>{:target="_blank"}*
 
 #### Music
 
