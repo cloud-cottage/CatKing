@@ -27,7 +27,7 @@ While you're here - check out something I wrote?
 
 此外我目前在 ***CapyMax*** 负责市场和商务事宜，这是一个超级有潜力的DeFi项目，目前还是早期，计划2025年3月前上线，欢迎大家参与建设！
 
-最后就是我也在为某交易所做市场方面工作。*更多信息请看<https://catking.vip/startups/>{:target="_blank"}*
+最后就是我也在为某交易所做市场方面工作。更多信息请看<https://catking.vip/startups/>{:target="_blank"}
 
 
 #### Ready to Crypto?
@@ -55,7 +55,7 @@ B站的教程内容很详尽，但大多数不具备时效性。例如有UP主�
 - <span class="icon-baseasset_img_media-kit_logo-green-v3"></span> BG最高返佣6000u  <https://share.bitget.com/u/8B78KZPB>{:target="_blank"}
 
 #### What I love
-我是音乐人 / 铲屎官，猫狗问题随时回答。 *我更多的生活爱好，请看这里<https://catking.vip/hobbies/>{:target="_blank"}*
+我是音乐人 / 铲屎官，猫狗问题随时回答。 更多的生活爱好请看<https://catking.vip/hobbies/>{:target="_blank"}
 
 #### Music
 
