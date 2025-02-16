@@ -383,8 +383,6 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 #main:after{clear:both;}
 #main:before,#main:after{content:"";display:table;}
 #main:after{clear:both;}
-
-/* Update in 28 Aug 2023 by Hanlin */
 .wide {
     width: 90% !important;
   }
@@ -533,6 +531,9 @@ screen and (max-height:300px){
 @media print{*{background:transparent !important;color:black !important;box-shadow:none !important;text-shadow:none !important;filter:none !important;-ms-filter:none !important;position:static !important;} 
 @page {margin:0.5cm;}h2,h3{orphans:3;widows:3;page-break-after:avoid;} p{orphans:3;widows:3;} pre,blockquote{border:1px solid #333;page-break-inside:avoid;padding:1em;} abbr[title]:after{content:" (" attr(title) ")";} a,a:visited{text-decoration:underline;} a[href]:after{content:" (" attr(href) ")";} a[href^="javascript:"]:after,a[href^="#"]:after{content:"";} img{max-width:100% !important;page-break-inside:avoid;} thead{display:table-header-group;} tr{page-break-inside:avoid;}}
 @media only screen and (min-width:30em){.image-grid li{width:33.333333%;}}
+/*
+if screen is narrower than 47.5em, then apply the following styles
+*/
 @media only screen and (min-width:37.5em){
   .site-name{display:inline;float:left;width:16.666666666666668%;margin-left:4.166666666666667%;margin-right:4.166666666666667%;} .top-navigation{display:inline;float:left;width:75%;margin-left:0%;margin-right:0%;} .image-wrap .headline-wrap,.image-wrap:after{left:25%;} .image-wrap .headline-wrap{margin-left:0;} 
   .article-author-top{display:block;display:inline;float:left;width:16.666666666666668%;margin-left:4.166666666666667%;margin-right:4.166666666666667%;} 
