@@ -53,6 +53,7 @@ B站的教程内容很详尽，但大多数不具备时效性。例如有UP主�
 - <span class="icon-binance"></span> 币安最高返佣链接  <https://accounts.binance.com/register?ref=ID421J3O>{:target="_blank"}
 - <span class="icon-OKX_logo"></span> 欧易最高返佣  <https://www.cnouyi.ninja/join/62326427>{:target="_blank"}
 - <span class="icon-baseasset_img_media-kit_logo-green-v3"></span> BG最高返佣6000u  <https://share.bitget.com/u/8B78KZPB>{:target="_blank"}
+- 🐊 GMGN 链上打狗必备<https://t.me/gmgnaibot?start=i_xSqbCM73>{:target="_blank"}
 
 #### What I love
 我是音乐人 / 铲屎官，猫狗问题随时回答。 更多的生活爱好请看<https://catking.vip/hobbies/>{:target="_blank"}
