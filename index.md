@@ -50,10 +50,19 @@ B站的教程内容很详尽，但大多数不具备时效性。例如有UP主�
 
 
 #### Tools & Links
-- <span class="icon-binance"></span> 币安最高返佣链接  <https://accounts.binance.com/register?ref=ID421J3O>{:target="_blank"}
-- <span class="icon-OKX_logo"></span> 欧易最高返佣  <https://www.cnouyi.ninja/join/62326427>{:target="_blank"}
+- <span class="icon-binance"></span> 币安最高返佣链接  <https://www.maxweb.mobi/join?ref=840498717>{:target="_blank"}
+- <span class="icon-OKX_logo"></span> 欧易最高返佣  <https://www.okx.com/join/value/>{:target="_blank"}
 - <span class="icon-baseasset_img_media-kit_logo-green-v3"></span> BG最高返佣6000u  <https://share.bitget.com/u/8B78KZPB>{:target="_blank"}
 - 🐊 GMGN 链上打狗必备<https://t.me/gmgnaibot?start=i_xSqbCM73>{:target="_blank"}
+
+#### Why me?
+用我的链接注册有什么好处？
+是的，我会获得一定的收入！如果你用上面的链接注册服务。
+我能提供的有：
+- 最高返佣（把交易所给我的奖励最大额度返还给你）
+- 加入社区（另有小群专供每月交易额超过200万美元的朋友）<https://t.me/CatKingClub>{:target="_blank"}
+- 各类人脉资源
+- 入圈经验
 
 #### What I love
 我是音乐人 / 铲屎官，猫狗问题随时回答。 更多的生活爱好请看<https://catking.vip/hobbies/>{:target="_blank"}
