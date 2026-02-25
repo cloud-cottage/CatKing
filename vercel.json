@@ -5,9 +5,8 @@
       "use": "@vercel/ruby",
       "config": {
         "bundleInstallCommand": "bundle install",
-        "buildCommand": "bundle exec jekyll build"
+        "buildCommand": "bundle exec jekyll build --destination ."
       }
     }
-  ],
-  "outputDirectory": "_site"
+  ]
 }
