@@ -3,8 +3,6 @@
   "builds": [
     { "src": "Gemfile", "use": "@vercel/ruby" }
   ],
-  "routes": [
-    { "src": "/(.*)", "dest": "/public/$1" }
-  ],
+  // Routes are automatically served from the outputDirectory. Removed custom routes.
   "outputDirectory": "public"
 }
